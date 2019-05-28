@@ -10,7 +10,6 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>projectB</module>
-        <module>projectC</module>
         <module>projectD</module>
     </modules>
 
