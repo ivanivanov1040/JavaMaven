@@ -12,5 +12,12 @@
     <artifactId>projectC</artifactId>
     <packaging>jar</packaging>
 
+    <dependencies>
+        <dependency>
+            <groupId>some-group</groupId>
+            <artifactId>projectD</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
 
 </project>
