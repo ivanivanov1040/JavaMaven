@@ -12,4 +12,12 @@
     <artifactId>projectB</artifactId>
     <packaging>war</packaging>
 
+    <dependencies>
+        <dependency>
+            <groupId>some-group</groupId>
+            <artifactId>projectC</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
+
 </project>
